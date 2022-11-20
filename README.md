@@ -37,8 +37,10 @@
 </div>
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+### :fire:Github Stats   :
+[![GitHub Streak](https://streak-stats.demolab.com/?user=your-github-username&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=himsingh24&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 <!---
 himsingh24/himsingh24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
