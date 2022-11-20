@@ -38,6 +38,7 @@
 ---
 
 ### :fire:Github Stats   :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=himsimgh24&theme=tokyonight)](https://git.io/streak-stats)
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=himsingh24&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 <!---
 himsingh24/himsingh24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
