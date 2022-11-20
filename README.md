@@ -37,9 +37,31 @@
 </div>
 ---
 
-### :fire:Github Stats   :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=himsimgh24&theme=tokyonight)](https://git.io/streak-stats)
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=himsingh24&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+### :fire:Github Stats   : 
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=himsingh24&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himsingh24&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/>  
+
+  
+
+<br/>  
+
+![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
+  
+
+<br/>  
+
+
+<br />
+
 <!---
 himsingh24/himsingh24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
