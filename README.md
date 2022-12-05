@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Himanshu kumar singh  
-- 👀 I’m interested in Data science/AI
+- 👀 I’m interested in Data science/Ai
 - 🌱 I’m currently persuing Btech in Artificial intelligence from SRM institute of science and techonology.
 
 
